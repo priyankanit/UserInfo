@@ -11,7 +11,7 @@ A simple Flutter app that fetches data from an API and displays it in a visually
 - (Bonus) Detail screen that shows more information about the user.
 
 ## Screenshots
-<img src="lib\images\userinfo.png" alt="User Info App" width="900" height="500">
+<img src="lib\images\userinfo.png" alt="User Info App" width="400" height="500">
 
 ## Installation
 1. Clone the repository:
